@@ -1,0 +1,2 @@
+echo "Hello, this is a test." > $
+echo "I love tests, they are cool." > $
